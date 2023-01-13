@@ -32,3 +32,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+Deployed Frontend url on Heroku
+
+https://test1010.herokuapp.com
